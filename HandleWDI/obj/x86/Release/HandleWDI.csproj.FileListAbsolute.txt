@@ -1,0 +1,12 @@
+E:\Projects\DlGoogleSpreedSheet\HandleWDI\bin\Release\HandleWDI.exe
+E:\Projects\DlGoogleSpreedSheet\HandleWDI\bin\Release\HandleWDI.pdb
+E:\Projects\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\Interop.Shell32.dll
+E:\Projects\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\HandleWDI.csproj.ResolveComReference.cache
+E:\Projects\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\HandleWDI.exe
+E:\Projects\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\HandleWDI.pdb
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\Interop.Shell32.dll
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\HandleWDI.csproj.ResolveComReference.cache
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\HandleWDI.exe
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Release\HandleWDI.pdb
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\bin\Release\HandleWDI.exe
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\bin\Release\HandleWDI.pdb

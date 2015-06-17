@@ -1,0 +1,6 @@
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Debug\Interop.Shell32.dll
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Debug\HandleWDI.csproj.ResolveComReference.cache
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\bin\Debug\HandleWDI.exe
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\bin\Debug\HandleWDI.pdb
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Debug\HandleWDI.exe
+C:\Users\shahnewaz\Documents\GapMinder\DlGoogleSpreedSheet\HandleWDI\obj\x86\Debug\HandleWDI.pdb
