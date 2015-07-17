@@ -1,0 +1,5 @@
+E:\Projects\DlGoogleSpreedSheet\ChartBookData\obj\x86\Release\ChartBookData.csproj.ResolveComReference.cache
+E:\Projects\DlGoogleSpreedSheet\ChartBookData\bin\Release\ChartBookData.exe
+E:\Projects\DlGoogleSpreedSheet\ChartBookData\bin\Release\ChartBookData.pdb
+E:\Projects\DlGoogleSpreedSheet\ChartBookData\obj\x86\Release\ChartBookData.exe
+E:\Projects\DlGoogleSpreedSheet\ChartBookData\obj\x86\Release\ChartBookData.pdb

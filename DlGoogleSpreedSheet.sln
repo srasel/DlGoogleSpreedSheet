@@ -1,9 +1,17 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DlGoogleSpreedSheet", "DlGoogleSpreedSheet\DlGoogleSpreedSheet.csproj", "{AD200CAB-E282-437F-B783-2720B97BD581}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleWDI", "HandleWDI\HandleWDI.csproj", "{4E47F58E-253C-4C5F-B1C4-14E82BF09FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandleIMFData", "HandleIMFData\HandleIMFData.csproj", "{A8263840-8517-4842-92D6-9BFEE90562B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChartBookData", "ChartBookData\ChartBookData.csproj", "{91313ADA-72EF-4211-8015-9051165AE570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomeMount", "IncomeMount\IncomeMount.csproj", "{58E856EB-458F-4970-9029-B8DB6E598D0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +27,18 @@ Global
 		{4E47F58E-253C-4C5F-B1C4-14E82BF09FA8}.Debug|x86.Build.0 = Debug|x86
 		{4E47F58E-253C-4C5F-B1C4-14E82BF09FA8}.Release|x86.ActiveCfg = Release|x86
 		{4E47F58E-253C-4C5F-B1C4-14E82BF09FA8}.Release|x86.Build.0 = Release|x86
+		{A8263840-8517-4842-92D6-9BFEE90562B6}.Debug|x86.ActiveCfg = Debug|x86
+		{A8263840-8517-4842-92D6-9BFEE90562B6}.Debug|x86.Build.0 = Debug|x86
+		{A8263840-8517-4842-92D6-9BFEE90562B6}.Release|x86.ActiveCfg = Release|x86
+		{A8263840-8517-4842-92D6-9BFEE90562B6}.Release|x86.Build.0 = Release|x86
+		{91313ADA-72EF-4211-8015-9051165AE570}.Debug|x86.ActiveCfg = Debug|x86
+		{91313ADA-72EF-4211-8015-9051165AE570}.Debug|x86.Build.0 = Debug|x86
+		{91313ADA-72EF-4211-8015-9051165AE570}.Release|x86.ActiveCfg = Release|x86
+		{91313ADA-72EF-4211-8015-9051165AE570}.Release|x86.Build.0 = Release|x86
+		{58E856EB-458F-4970-9029-B8DB6E598D0C}.Debug|x86.ActiveCfg = Debug|x86
+		{58E856EB-458F-4970-9029-B8DB6E598D0C}.Debug|x86.Build.0 = Debug|x86
+		{58E856EB-458F-4970-9029-B8DB6E598D0C}.Release|x86.ActiveCfg = Release|x86
+		{58E856EB-458F-4970-9029-B8DB6E598D0C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

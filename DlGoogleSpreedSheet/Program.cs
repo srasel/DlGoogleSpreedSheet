@@ -172,7 +172,7 @@ namespace DlGoogleSpreedSheet
             string indicatorPath = @"C:\Users\shahnewaz\Documents\GapMinder\indicators.txt";
             StreamWriter sIndiator = (File.Exists(indicatorPath)) ? File.AppendText(indicatorPath)
                     : File.CreateText(indicatorPath);
-            string[] filePaths = Directory.GetFiles(@"C:\Users\shahnewaz\Documents\GapMinder\Output\", "*.csv");
+            string[] filePaths = Directory.GetFiles(@"C:\Users\shahnewaz\Documents\GapMinder\Output\", "1915.csv");
             using (StreamWriter sw = (File.Exists(path)) ? File.AppendText(path) : File.CreateText(path))
             {
                 foreach (string csvFile in filePaths)
@@ -197,17 +197,17 @@ namespace DlGoogleSpreedSheet
                             string str = tokens[i].Replace(",", "").Replace("\"", "")
                                 .Replace("(","").Replace(")","").Trim();
 
-                            double value = 0.00;
-                            bool b = Double.TryParse(str
-                                , System.Globalization.NumberStyles.Float, culture, out value);
-                            if (!b)
-                                value = 0.00;
+                            //double value = 0.00;
+                            //bool b = Double.TryParse(str
+                            //    , System.Globalization.NumberStyles.Float, culture, out value);
+                            //if (!b)
+                            //    value = null;
 
                             sw.WriteLine(csvFile + ","
                                         + fileID + ","
                                         + tokens[0].Replace(',', ';') + ","
                                         + headerTokens[i] + ","
-                                        + value);
+                                        + str);
                         }
                     }
                     file.Close();
